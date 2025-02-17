@@ -1,0 +1,2 @@
+##To Understand the concept of neural networks and what happens behind the libraries
+https://towardsdatascience.com/coding-a-neural-network-from-scratch-in-numpy-31f04e4d605/
