@@ -1,2 +1,4 @@
+##To understand the concept of AI ML and DL
+https://medium.com/geekculture/demystifying-artificial-intelligence-bdd9a117d4a6
 ##To Understand the concept of neural networks and what happens behind the libraries
 https://towardsdatascience.com/coding-a-neural-network-from-scratch-in-numpy-31f04e4d605/
